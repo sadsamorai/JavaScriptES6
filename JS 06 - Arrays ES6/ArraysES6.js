@@ -103,17 +103,6 @@ let resultado1 = numeros.map(dobro).map(mais10).map(formataReal)
 console.log(numeros)
 console.log(resultado1)
 
-
-
-
-
-
-
-
-
-
-
-
 //reduce
 /* Recebe uma função callback e (opcionalmente) um valor inicial
 (se não for informado começa com o valor do indice zero) */
